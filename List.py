@@ -13,3 +13,4 @@ fruits.sort()
 fruits.sort(reverse=True)
 fruits[0] = "Banana"
 print(fruits)
+print(type(fruits))

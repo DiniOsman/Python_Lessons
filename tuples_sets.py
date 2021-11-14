@@ -6,5 +6,6 @@ print(fruits, type(fruits))
 fruits2 = ('Mongoes')
 print(fruits2)
 print(fruits[1], fruits2[1])
+print(len(fruits))
 
 # A set is a collection which is unordered and unindexed. No duplicate numbers
